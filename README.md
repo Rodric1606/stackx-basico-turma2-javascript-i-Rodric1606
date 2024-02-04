@@ -2,6 +2,7 @@
 
 Olá!
 
+
 Esta é nossa primeira atividade de código envolvendo Javascript I do módulo Básico.
 
 O propósito dessa atividade é te ajudar a entender como funcionam as variáveis, funções, controle de fluxos, tipos de dados e etc.
